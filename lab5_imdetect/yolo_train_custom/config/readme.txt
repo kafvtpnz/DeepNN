@@ -1,1 +1,0 @@
-Файлы с весами доступны по ссылке https://drive.google.com/drive/folders/1pwqmHLwsNgRB4iMg8FBJUpBBy_SO2OEw?usp=sharing

@@ -1,0 +1,8 @@
+path: data  # dataset root dir
+train: E:\Pyscript\DeepNN\DeepNN\lab5_imdetect\data\images\train # train images (relative to 'path') 118287 images
+val: E:\Pyscript\DeepNN\DeepNN\lab5_imdetect\data\images\val # val images (relative to 'path') 5000 images
+
+# Classes
+names:
+  0: mask
+  1: NOmask
